@@ -1,0 +1,28 @@
+*{
+   background: linear-gradient(to top left ,rgb(72, 129, 235), white);
+   background-attachment:fixed;
+   color:rgb(13, 2, 49)
+}
+
+.yellowRobot{
+   width: 106px;
+   height: 150px; 
+}
+.redRobot{
+   width: 137px;
+   height: 150px; 
+}
+#soumi{
+   width: 400px;
+   height: 400px; 
+   max-width: 410px;
+   /*text-align:center;*/
+   display:block;
+   margin:auto ;
+}
+#wrapper{
+   text-align:center;
+   max-width: 400px;
+   font-size: x-large;
+   margin:auto ;
+}
